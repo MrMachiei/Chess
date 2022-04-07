@@ -1,0 +1,5 @@
+english
+set_4
+set_2
+Open_Sans_Condensed/OpenSansCondensed-Light.ttf
+800
